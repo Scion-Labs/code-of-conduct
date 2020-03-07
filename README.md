@@ -91,7 +91,7 @@ This Code is not exhaustive or complete. It is not a rulebook; it serves to dist
 ## Attribution & Acknowledgements
 
 We all stand on the shoulders of giants across many open source communities. We’d like to thank the communities and projects that established codes of conduct and diversity statements as our inspiration, like [Todo Group](http://todogroup.org/opencodeofconduct), 
-[Ubuntu] (https://ubuntu.com/community/code-of-conduct),
+[Ubuntu](https://ubuntu.com/community/code-of-conduct), 
 [Python](https://www.python.org/community/diversity/),
 [Contributor Covenant](http://contributor-covenant.org/),
 [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/),
