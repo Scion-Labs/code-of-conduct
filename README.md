@@ -1,99 +1,97 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within the scion community, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all, and expect our code of conduct to be honored by staff, students, and guests. 
+We want a productive, happy and agile community that can welcome new ideas in a complex field, improve every process every year, and foster collaboration between groups with very different needs, interests and skills.
 
-Anyone who violates this code of conduct may be immediately removed from any current classes, refunded according to the terms of their student contract, and banned from the community.
+We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardise the participation of any person in the project.
 
-## Community Goal: Be Kind
+The Code of Conduct governs how we behave in public or in private whenever the project will be judged by our actions. We expect it to be honoured by everyone who represents the project officially or informally, claims affiliation with the project, or participates directly.
 
-Our community of staff, instructors, and current &amp; former students strives to be kind. This is the guiding principle for conducting oneself within the scion community.
+## We strive to: 
 
-While kindness can be generally understood, we recognize that kindness in a professional setting means (but is not limited to):
+### Be considerate
 
-- **Be friendly and patient**
-- **Be welcoming**: We strive to be a community who welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
-- **Be considerate**: Your work will be used by other people and you in turn will depend on the work of others. Any decision you take will affect users and colleagues and you should take those consequences into account when making decisions. Remember that we’re a worldwide community, so you might not be communicating in someone else’s primary language.
-- **Give attribution, engage honestly**: Since our code often depends on the work and assistance of others, we will be sure to give proper attribution. As members of the community, we agree to represent ourselves truthfully, claim only work that is our own, properly attribute collaborations, and engage honestly in all assignments.
-- **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Your presence may not impact other's ability to learn.
-- **Be careful in the words that we choose**: We are a community of learning professionals and we conduct ourselves professionally. Be kind to others both within the community and beyond the community. Do not insult, minimize, marginalize, or put down other participants, cultures, or sub-cultures. Contribute positively to the learning environment. 
-- **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity&mdash;people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
-- **Harassment and exclusionary behavior aren’t acceptable.**
+Our work will be used by other people, and we in turn will depend on the work of others. Any decision we take will affect users and colleagues, and we should consider them when making decisions.
 
-## Definitions
+### Be respectful
 
-### Plagiarism
+Disagreement is no excuse for poor manners. We work together to resolve conflict, assume good intentions and do our best to act in an empathic fashion. We don't allow frustration to turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one.
 
-Plagiarism is the re-use of someone else's code, without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
+### Take responsibility for our words and our actions
 
-Violating the terms of a license in a professional software development setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
+We can all make mistakes; when we do, we take responsibility for them. If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong.
 
-### Attribution
+### Be collaborative
 
-We encourage an open-source work ethic, and we solve problems collaboratively. The difference between properly attributed work and plagiarized submissions is found in citing source material and permission of the original author.
+What we produce is a complex whole made of many parts, it is the sum of many dreams. Collaboration between teams that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole.
 
-Proper attribution includes a description of what code was used or what help was given. A link back to the original source material or ideas should be included whenever possible. This belongs in a section titled "Attributions" of the README file for the relevant code.
+Collaboration reduces redundancy and improves the quality of our work. Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible.
 
-Please note: an online code repository that has no license is presumed to be closed source and should not be used as a reference. Please include a license file in your own publicly published code.
+### Value decisiveness, clarity and consensus
 
-### Harassment
+Disagreements, social and technical, are normal, but we do not allow them to persist and fester leaving others uncertain of the agreed direction.
 
-We share a common understanding of what constitutes harassment, as it applies to a professional setting. Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
+We expect participants in the project to resolve disagreements constructively. When they cannot, we escalate the matter to structures with designated leaders to arbitrate and provide clarity and direction.
 
-Harassment includes, but is not limited to:
+### Ask for help when unsure
 
-- Offensive comments (or "jokes") related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro-typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
-- Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
-- Deliberate misgendering. This includes deadnaming or persistently using a pronoun that does not correctly reflect a person’s gender identity. You must address people by the name they give you when not addressing them by their username or handle.
-- Physical contact and simulated physical contact (e.g., textual descriptions like “hug” or “backrub”) without consent or after a request to stop
-- Threats of violence, both physical and psychological
-- Incitement of violence towards any individual, including encouraging a person to engage in self-harm
-- Deliberate intimidation
-- Stalking or following
-- Harassing photography or recording, including logging online activity for harassment purposes
-- Sustained disruption of discussion
-- Unwelcome sexual attention, including gratuitous or off-topic sexual language, images, or behavior
-- Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others, or excessive teasing after a request to stop
-- Continued one-on-one communication after requests to cease
-- Deliberate “outing” of any aspect of a person’s identity without their consent, except as necessary to protect others from intentional abuse
-- Publication of non-harassing private communication
-- Sabotage of someone else's work or intentionally hindering someone else's performance
+Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, though they may be directed to the appropriate forum. Those who are asked should be responsive and helpful.
 
-We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
+### Step down considerately
 
-## Examples
+When somebody leaves or disengages from the project, we ask that they do so in a way that minimises disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 
-We don't require students to participate in formal conduct training. Rather, we rely on common sense and a commitment to follow these guidelines. To provide greater clarity, here are some examples of how this should be interpreted:
 
-- A high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
-- If someone solicits feedback, focus on the material. Do not comment on physical appearance.
-- In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!" or, "Uh, obviously, you should just concat the strings."
-- Our community constitutes people from a wide array of backgrounds. This is a great strength. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than, "Well, that's not what I experienced."
-- Copying code from Stack Overflow, blogs, Google searches, online tutorials, etc., and pasting it into your own project is considered plagiarism. If you'd like to use someone else's code, at least retype the relevant portions yourself, and include a link back to the original in your project's README file.
+## Leadership, authority and responsibility
 
-## Reporting Issues
+We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
 
-Our community prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+### Delegation from the top
 
-- ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
-- Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
-- Refusal to explain or debate social justice concepts
-- Communicating in a ‘tone’ you don’t find congenial
-- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+Responsibility for the project starts with the "benevolent dictator", who delegates specific responsibilities and the corresponding authority to a series of teams, councils and individuals, starting with the Community Council ("CC"). That Council or its delegated representative will arbitrate in any dispute.
 
-If you experience or witness unacceptable behavior&mdash;or have any other concerns&mdash;please report it by contacting us via conduct@codefellows.com, or email the Campus Director. All reports will be handled with discretion. In your report please include:
+We are a meritocracy; we delegate decision making, governance and leadership from senior bodies to the most able and engaged candidates.
 
-- Your contact information.
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
-- Your account of what occurred and if you believe the incident is ongoing. If there is a publicly available record (e.g. Slack channel, a mailing list archive or a public IRC logger), please include a link, reference, or screenshot.
-- Any additional information that may be helpful.
+### Support for delegation is measured
 
-After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. The response team has broad latitude to remove an offending student from class, or offer a warning, depending on the severity of the offense. No more than 1 warning will be given; a second offense will result in release from class, a refund according to the student contract, and a community ban.
+Nominations to the boards and councils are at the discretion of the Community Council, however the Community Council will seek the input of the community before confirming appointments.
 
-If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, a different member of the response team will handle it. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them.
+
+### We value discussion, data and decisiveness
+
+We gather opinions, data and commitments from concerned parties before taking a decision. We expect leaders to help teams come to a decision in a reasonable time, to seek guidance or be willing to take the decision themselves when consensus is lacking, and to take responsibility for implementation.
+
+The poorest decision of all is no decision: clarity of direction has value in itself. Sometimes all the data are not available, or consensus is elusive. A decision must still be made. There is no guarantee of a perfect decision every time - we prefer to err, learn, and err less in future than to postpone action indefinitely.
+
+We recognise that the project works better when we trust the teams closest to a problem to make the decision for the project. If we learn of a decision that we disagree with, we can engage the relevant team to find common ground, and failing that, we have a governance structure that can review the decision. Ultimately, if a decision has been taken by the people responsible for it, and is supported by the project governance, it will stand. None of us expects to agree with every decision, and we value highly the willingness to stand by the project and help it deliver even on the occasions when we ourselves may prefer a different route.
+
+### Open meritocracy
+
+We invite anybody, from any company, to participate in any aspect of the project. Our community is open, and any responsibility can be carried by any contributor who demonstrates the required capacity and competence.
+
+### Teamwork
+
+A leader's foremost goal is the success of the team.
+
+"A virtuoso is judged by their actions; a leader is judged by the actions of their team." A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves.
+
+### Courage and considerateness
+
+Leadership occasionally requires bold decisions that will not be widely understood, consensual or popular. We value the courage to take such decisions, because they enable the project as a whole to move forward faster than we could if we required complete consensus. Nevertheless, boldness demands considerateness; take bold decisions, but do so mindful of the challenges they present for others, and work to soften the impact of those decisions on them. Communicating changes and their reasoning clearly and early on is as important as the implementation of the change itself.
+
+### Conflicts of interest
+
+We expect leaders to be aware when they are conflicted due to employment or other projects they are involved in, and abstain or delegate decisions that may be seen to be self-interested. We expect that everyone who participates in the project does so with the goal of making life better for its users.
+
+When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.
+
+This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter.
+
 
 ## Attribution & Acknowledgements
 
-We all stand on the shoulders of giants across many open source communities. We’d like to thank the communities and projects that established codes of conduct and diversity statements as our inspiration, like [Todo Group](http://todogroup.org/opencodeofconduct),
+We all stand on the shoulders of giants across many open source communities. We’d like to thank the communities and projects that established codes of conduct and diversity statements as our inspiration, like [Todo Group](http://todogroup.org/opencodeofconduct), 
+[Ubuntu] (https://ubuntu.com/community/code-of-conduct),
 [Python](https://www.python.org/community/diversity/),
 [Contributor Covenant](http://contributor-covenant.org/),
 [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/),
